@@ -15,7 +15,7 @@ Linear regression:
 - https://www.youtube.com/watch?v=PaFPbb66DxQ
 - https://www.youtube.com/watch?v=7ArmBVF2dCs
   
-Logistic regressioin:
+Logistic regression:
 - https://www.youtube.com/playlist?list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe
 
 Decision tree:
